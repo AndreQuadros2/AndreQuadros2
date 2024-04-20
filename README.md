@@ -1,5 +1,5 @@
 
-### Olá! Eu sou André Quadros 🙋‍♂️
+### Bem vindo ao meu GitHub 🙋‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrequadros_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-quadros-226b87289/)
